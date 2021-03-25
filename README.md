@@ -1,2 +1,2 @@
-Laravel Vue Ecommerce starter with snctum.
+Laravel Vue Ecommerce starter with sanctum.
 Ashikur Rahman
